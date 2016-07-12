@@ -149,7 +149,7 @@ function removeItem (myGroceryList, item) {
 function addItem (myGroceryList, item) {
   for (var i= 0; i <myGroceryList.length; i++) {
     if (myGroceryList[i] !== item) {
-      
+
     }
 }
 
@@ -311,3 +311,4 @@ Once you find the particular index he's located in, delete him from the array.*/
   //Code Here
 
 //The activity we just did is very much how data works in 'the real world'.
+ //stuff
